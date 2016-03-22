@@ -4,7 +4,7 @@
         <description><![CDATA[photoblog example]]></description>
         <link>https://thegrid.ai/photoblog-example/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 21:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 21:07:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/photoblog-example/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/photoblog-example/ea626a78-cfe8-4bfc-b786-7b308cc04028/index.html</link>
             <guid isPermaLink="false">ea626a78-cfe8-4bfc-b786-7b308cc04028</guid>
             <pubDate>Tue, 22 Mar 2016 21:06:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9259a031-eb53-46ee-a7c4-903fb8c85d32.jpg">]]></description>
+            <link>https://thegrid.ai/photoblog-example/94319025-fa8a-4e90-bc16-ab1f9a839436/index.html</link>
+            <guid isPermaLink="false">94319025-fa8a-4e90-bc16-ab1f9a839436</guid>
+            <pubDate>Tue, 22 Mar 2016 21:06:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
