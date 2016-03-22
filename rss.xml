@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[photoblog example]]></title>
         <description><![CDATA[photoblog example]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photoblog-example/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 21:03:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 22 Mar 2016 21:05:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photoblog-example/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fea3a7a-b70e-4708-8d5e-8b1b813f74f5.jpg" alt="" title="">]]></description>
-            <link>undefinedea626a78-cfe8-4bfc-b786-7b308cc04028/index.html</link>
+            <link>https://thegrid.ai/photoblog-example/ea626a78-cfe8-4bfc-b786-7b308cc04028/index.html</link>
             <guid isPermaLink="false">ea626a78-cfe8-4bfc-b786-7b308cc04028</guid>
-            <pubDate>Tue, 22 Mar 2016 21:03:45 GMT</pubDate>
+            <pubDate>Tue, 22 Mar 2016 21:05:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
